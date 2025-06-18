@@ -13,7 +13,7 @@
 11. Open MacOS terminal and paste "/Users/USERNAME/Desktop/libcs50-main".
 12. Paste "sudo make install".
 **Installing cs50.dev Extensions**
-13. Download “vscode-extensions-export.zip”
+13. Download “vscode-extensions-export.zip” https://cloud.mail.ru/public/iPXT/LKzxTXGUJ
 14. Extract to Desktop.
 15. If you want to install only special CS50 extensions, just delete others from the txt file and continue with the next step.
 16. Open MacOS terminal and write “cd” and paste the directory of the “install-extensions.sh” file. Like “cd /Users/USERNAME/Desktop/vscode-extensions-export”
