@@ -10,7 +10,7 @@
 9. For creating a binary file from a C file, write “cc (c file name).c -o (binary file name) cs50.c” like “cc hello.c -o hello cs50.c”.
 10. Then for run the file, write ./(binary file name) to the terminal.
 
-11. Open MacOS terminal and paste "/Users/USERNAME/Desktop/libcs50-main".
+11. Open MacOS terminal and paste "cd /Users/USERNAME/Desktop/libcs50-main".
 12. Paste "sudo make install".
 **Installing cs50.dev Extensions**
 13. Download “vscode-extensions-export.zip” https://cloud.mail.ru/public/iPXT/LKzxTXGUJ
