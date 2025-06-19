@@ -115,3 +115,5 @@ npx vsce package
 code --install-extension style50-0.0.1.vsix
 
 • ⁃ You can change 0.0.1 version.
+
+My e-mail adress: erdogan.can.karule.0@gmail.com
